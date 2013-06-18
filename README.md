@@ -18,9 +18,9 @@ Chi tiết ý tưởng dự án: [MHST2013-21](http://wiki.vfossa.vn/mhst:ideas:
 * Hiểu cách thức xây dựng CAS Client Integration Module
 * Sử dụng thành thạo HĐH GNU/Linux (ưu tiên Fedora) và các công cụ hỗ trợ lập trình trên GNU/Linux (vi/vim, geany, git...)
 
-## Các thành viên
-1. Phạm Anh Toàn (trưởng nhóm)
-2. Nguyễn Việt Hưng
+## Thành viên
+1. Phạm Anh Toàn (trưởng nhóm), toanphamanh2012 (at) gmail (dot) com
+2. Nguyễn Việt Hưng, hung.nguyen.198 (at) gmail (dot) com
 3. Đào Văn Phong
 
 ## Mentor
